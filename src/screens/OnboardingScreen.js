@@ -6,8 +6,7 @@ import {
   FlatList,
   View,
   Text,
-  StatusBar,
-  TouchableOpacity,
+  StatusBar, TouchableOpacity,
   Dimensions,} from 'react-native';
 
 const {width, height} = Dimensions.get('window');
