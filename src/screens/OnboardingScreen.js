@@ -8,8 +8,7 @@ import {
   Text,
   StatusBar,
   TouchableOpacity,
-  Dimensions,
-} from 'react-native';
+  Dimensions,} from 'react-native';
 
 const {width, height} = Dimensions.get('window');
 
