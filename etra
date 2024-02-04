@@ -1,0 +1,18 @@
+// const [isAppFirstLaunched, setIsAppFirstLaunched] = React.useState(null);
+  // React.useEffect(() => {
+  //   const checkAppFirstLaunch = async () => {
+  //     const appData = await AsyncStorage.getItem('isAppFirstLaunched');
+  //     if (appData === null) {
+  //       setIsAppFirstLaunched(true);
+  //       await AsyncStorage.setItem('isAppFirstLaunched', 'false');
+  //     } else {
+  //       setIsAppFirstLaunched(false);
+  //     }
+  //   };
+  //   checkAppFirstLaunch();
+  // }, []);
+          {/* {isAppFirstLaunched && ( */}
+          {/* )} */}
+    // isAppFirstLaunched != null && (
+  // );
+
